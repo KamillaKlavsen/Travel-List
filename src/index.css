@@ -72,6 +72,10 @@ input {
   cursor: pointer;
 }
 
+select {
+  border-right: 16px solid transparent;
+}
+
 .add-form button {
   text-transform: uppercase;
   background-color: #76c7ad;
